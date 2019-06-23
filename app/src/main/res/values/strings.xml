@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="event_title">Title</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="venue">Venue</string>
+    <string name="location">Location</string>
+    <string name="attendees">Attendees</string>
+    <string name="movie_title">Movie</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="undo">Undo</string>
+    <string name="moviesView">Movies</string>
+    <string name="newEvent">New Event</string>
+    <string name="editEvent">Edit Event</string>
+    <string name="addNewMovie">+ Add new movie</string>
+    <string name="tabList">List View</string>
+    <string name="tabCalendar">Month View</string>
+    <string name="delete">Delete</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="cancel">Cancel</string>
+    <string name="remind">Remind</string>
+    <string name="arrowPrev"> &lt;—</string>
+    <string name="arrowNext"> —&gt;</string>
+    <string name="addAttendees"> Add attendees</string>
+    <string name="datePicker">Pick date and time</string>
+    <string name="oldNew">From oldest to newest</string>
+    <string name="mapView">Map</string>
+    <string name="setting">Setting</string>
+    <string name="latLon">Latitude, Longitude</string>
+    <string name="threshold">Notification threshold \n(minimum 5 minutes): </string>
+    <string name="period">Notification period \n(From 1 to 20 minutes): </string>
+    <string name="remindDuration">Remind again duration \n(From 1 to 45 minutes): </string>
+    <string name="settingHint">minutes</string>
+    <string name="deleteMessage">Proceed delete event ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="sortEvent">
+        <item>Oldest</item>
+        <item>Newest</item>
+    </string-array>
+    <string-array name="sortMovie">
+        <item>Alphabet</item>
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+    <string-array name="eventError">
+        <item>No title\n\</item>
+        <item>No start date\n\</item>
+        <item>No end date\n\</item>
+        <item>Start date after end date\n\</item>
+        <item>No venue\n\</item>
+        <item>Invalid Latitude/Longitude\n\</item>
+    </string-array>
+    <string-array name="settingError">
+        <item>No threshold\n\</item>
+        <item>No remind\n\</item>
+        <item>No period\n\</item>
+        <item>Invalid threshold\n\</item>
+        <item>Invalid remind\n\</item>
+        <item>Invalid period\n\</item>
+    </string-array>
+</resources>
